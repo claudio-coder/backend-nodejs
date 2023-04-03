@@ -1,0 +1,65 @@
+[
+    {
+        "id": 0,
+        "title": "Purina Exellent 10kg",
+        "description": "Comida para Perros",
+        "price": 5490,
+        "thumbnail": "Sin imagen",
+        "code": "pur10K",
+        "stock": 18
+    },
+    {
+        "id": 1,
+        "title": "Purina Exellent 20kg",
+        "description": "Comida para Perros",
+        "price": 10490,
+        "thumbnail": "Sin imagen",
+        "code": "pur20K",
+        "stock": 14
+    },
+    {
+        "id": 2,
+        "title": "Purina Exellent 20kg",
+        "description": "Comida para Perros",
+        "price": 10490,
+        "thumbnail": "Sin imagen",
+        "code": "pur25K",
+        "stock": 14
+    },
+    {
+        "id": 3,
+        "title": "Purina Exellent 20kg",
+        "description": "Comida para Perros",
+        "price": 10490,
+        "thumbnail": "Sin imagen",
+        "code": "pur30K",
+        "stock": 14
+    },
+    {
+        "id": 4,
+        "title": "Purina Exellent 20kg",
+        "description": "Comida para Perros",
+        "price": 10490,
+        "thumbnail": "Sin imagen",
+        "code": "pur30sK",
+        "stock": 14
+    },
+    {
+        "id": 5,
+        "title": "Purina Exellent 20kg",
+        "description": "Comida para Perros",
+        "price": 10490,
+        "thumbnail": "Sin imagen",
+        "code": "pur30222K",
+        "stock": 14
+    },
+    {
+        "id": 6,
+        "title": "Purina Exellent 20kg",
+        "description": "Comida para Perros",
+        "price": 10490,
+        "thumbnail": "Sin imagen",
+        "code": "pur30222sssK",
+        "stock": 14
+    }
+]
