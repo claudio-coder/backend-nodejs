@@ -105,10 +105,10 @@ export class ProductManager {
 // const miProductManager = new ProductManager("./products.json");
 
 // miProductManager.addProduct(
-//   "Purina Exellent 20kg",
-//   "Comida para Perros",
-//   10490,
+//   "Old Prince 15kg",
+//   "Comida para Gatos",
+//   9660,
 //   "Sin imagen",
-//   "pur30222sssK",
-//   14
+//   "oldpri15K",
+//   28
 // );

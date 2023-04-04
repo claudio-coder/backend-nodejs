@@ -15,51 +15,87 @@
         "price": 10490,
         "thumbnail": "Sin imagen",
         "code": "pur20K",
-        "stock": 14
+        "stock": 13
     },
     {
         "id": 2,
-        "title": "Purina Exellent 20kg",
+        "title": "Purina Exellent 5kg",
         "description": "Comida para Perros",
-        "price": 10490,
+        "price": 2290,
         "thumbnail": "Sin imagen",
-        "code": "pur25K",
-        "stock": 14
+        "code": "pur5K",
+        "stock": 19
     },
     {
         "id": 3,
-        "title": "Purina Exellent 20kg",
-        "description": "Comida para Perros",
-        "price": 10490,
+        "title": "Purina Exellent Adult Cat 20kg",
+        "description": "Comida para Gatos",
+        "price": 12230,
         "thumbnail": "Sin imagen",
-        "code": "pur30K",
-        "stock": 14
+        "code": "purcat20K",
+        "stock": 27
     },
     {
         "id": 4,
-        "title": "Purina Exellent 20kg",
-        "description": "Comida para Perros",
-        "price": 10490,
+        "title": "Purina Exellent Adult Cat 10kg",
+        "description": "Comida para Gatos",
+        "price": 7490,
         "thumbnail": "Sin imagen",
-        "code": "pur30sK",
-        "stock": 14
+        "code": "purcat10K",
+        "stock": 12
     },
     {
         "id": 5,
-        "title": "Purina Exellent 20kg",
-        "description": "Comida para Perros",
-        "price": 10490,
+        "title": "Purina Exellent Adult Cat 5kg",
+        "description": "Comida para Gatos",
+        "price": 4290,
         "thumbnail": "Sin imagen",
-        "code": "pur30222K",
-        "stock": 14
+        "code": "purcat5K",
+        "stock": 18
     },
     {
         "id": 6,
-        "title": "Purina Exellent 20kg",
-        "description": "Comida para Perros",
-        "price": 10490,
+        "title": "Old Prince 20kg",
+        "description": "Comida para Gatos",
+        "price": 14270,
         "thumbnail": "Sin imagen",
-        "code": "pur30222sssK",
-        "stock": 14
+        "code": "oldpr20K",
+        "stock": 124
+    },
+    {
+        "id": 7,
+        "title": "Old Prince 10kg",
+        "description": "Comida para Gatos",
+        "price": 7690,
+        "thumbnail": "Sin imagen",
+        "code": "oldpri10K",
+        "stock": 30
+    },
+    {
+        "id": 8,
+        "title": "Old Prince 5kg",
+        "description": "Comida para Gatos",
+        "price": 5690,
+        "thumbnail": "Sin imagen",
+        "code": "oldpri5K",
+        "stock": 22
+    },
+    {
+        "id": 9,
+        "title": "Old Prince 1,5kg",
+        "description": "Comida para Gatos",
+        "price": 2690,
+        "thumbnail": "Sin imagen",
+        "code": "oldpri1,5K",
+        "stock": 28
+    },
+    {
+        "id": 10,
+        "title": "Old Prince 15kg",
+        "description": "Comida para Gatos",
+        "price": 9660,
+        "thumbnail": "Sin imagen",
+        "code": "oldpri15K",
+        "stock": 28
     }
 ]
